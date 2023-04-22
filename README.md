@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danieltyl
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning {Machine Learning, Data Visualization, Cybersecurity}
-- 💞️ I’m looking to collaborate on building a Flutter mobile app that shows the Estimated Time of Arrivial in Hong Kong Transportation System
+- 👀 I’m interested in Flutter, AI, and Classical Music!
+- 🌱 I’m currently learning {Machine Learning, Cybersecurity, Android App Development, Electronic Music Composition}
+- 💞️ I’m looking to collaborate on some interesting projects!
 
 <!---
 danieltyl/danieltyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
